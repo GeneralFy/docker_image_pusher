@@ -14,3 +14,4 @@ elasticsearch:7.17.28
 bitnami/kafka:3.9.0
 rabbitmq:4.0.7-management
 apache/superset:GHA-13579106151
+postgres:15
