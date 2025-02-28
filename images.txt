@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql
 redis:7
+flink:scala_2.12-java17
