@@ -7,3 +7,7 @@ xhofe/alist:latest
 mysql
 redis:7
 flink:scala_2.12-java17
+elasticsearch:8.17.2
+apache/doris:fe-2.1.8.1
+apache/doris:be-2.1.8.1
+elasticsearch:7.17.28
