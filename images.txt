@@ -15,4 +15,4 @@ bitnami/kafka:3.9.0
 rabbitmq:4.0.7-management
 apache/superset:GHA-13579106151
 postgres:15
-oci://registry-1.docker.io/bitnamicharts/harbor --version 24.3.3
+registry-1.docker.io/bitnamicharts/harbor --version 24.3.3
