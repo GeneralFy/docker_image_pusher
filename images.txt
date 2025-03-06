@@ -18,3 +18,5 @@ postgres:15
 xhofe/alist:main-aio
 openjdk:17-ea-oracle
 spark:python3-java17
+logstash:8.17.2
+kibana:8.17.2
