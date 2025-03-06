@@ -17,3 +17,4 @@ apache/superset:GHA-13579106151
 postgres:15
 xhofe/alist:main-aio
 openjdk:17-ea-oracle
+spark:python3-java17
